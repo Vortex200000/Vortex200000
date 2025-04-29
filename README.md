@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Essam
 - I'm an intermediate Flutter developer who loves building beautiful and functional mobile apps. I enjoy solving problems, learning new technologies, and writing clean, maintainable code.
-- 
+  
 - ## 💼 What I'm Working On
 - 📱 A cross-platform **video calling app** using `flutter_webrtc` and Firebase.
 - 📍 A **Flutter map-based app** using `flutter_map` with location, polyline, and Firestore integration.
@@ -14,7 +14,7 @@
 - 🧠 State management: BLoC, Riverpod, Provider  
 - 🎨 UI/UX with custom widgets, animations, and responsive design  
 - 🛠 Git, GitHub Actions, and CI/CD
-- 
+  
 - ## 📫 Get in Touch
 
 - ✉️ Email: [omaressam744@gmail.com]  
