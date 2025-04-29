@@ -5,7 +5,7 @@
 - 📱 A cross-platform **video calling app** using `flutter_webrtc` and Firebase.
 - 📍 A **Flutter map-based app** using `flutter_map` with location, polyline, and Firestore integration.
 - 📦 Contributing to open-source Flutter plugins and improving my full-stack skills.
-- 
+
 - ## 🔧 Technologies & Tools
 - 💙 Flutter & Dart  
 - 🔥 Firebase (Auth, Firestore, Storage, FCM)  
